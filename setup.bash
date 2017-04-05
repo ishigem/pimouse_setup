@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-
+# edited by ishigem
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
